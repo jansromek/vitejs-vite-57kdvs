@@ -13,7 +13,7 @@
       <img src={svelteLogo} class="logo svelte" alt="Svelte Logo" />
     </a>
   </div>
-  <h1>Vite + Svelte</h1>
+  <h1>Vite + honza</h1>
 
   <div class="card">
     <Counter />
@@ -24,7 +24,7 @@
   </p>
 
   <p class="read-the-docs">
-    Click on the Vite and Svelte logos to learn more
+    Click on the hello and Svelte logos to learn more
   </p>
 </main>
 
